@@ -5,3 +5,4 @@ geopandas==0.14.2
 openpyxl==3.1.2
 shapely==2.0.2
 python-multipart==0.0.6
+fiona==1.9.6
